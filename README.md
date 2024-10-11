@@ -3,16 +3,15 @@
 > *formerly known as:* **Floor Heating Valve Controller**
 
 ```txt
-░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░
-░▒▓                                                 ▓▒░
-░▒▓          Placeholder for future project         ▓▒░
-░▒▓                                                 ▓▒░
-░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░
-```
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- :warning: :warning: **DO NOT BUILD** :warning: :warning:
+    ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░
+    ░▒▓                                                 ▓▒░
+    ░▒▓          Placeholder for future project         ▓▒░
+    ░▒▓                                                 ▓▒░
+    ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░
 
+                      ⚠️ ⚠️ DO NOT BUILD ⚠️ ⚠️
+
+```
 
 This work is based on the work done by @[Voltlog](https://github.com/voltlog)
 
